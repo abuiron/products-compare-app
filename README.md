@@ -11,7 +11,7 @@ This is a React-based application that allows users to compare various products.
 
 ## Live Demo
 
-Check out the live demo of the project [https://atproductscompare.netlify.app](AT Products). 
+Check out the live demo of the project [https://atproductscompareapp.netlify.app/compare] (AT Products). 
 
 *Note: Replace the `#` with your actual live demo URL.*
 
