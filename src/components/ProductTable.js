@@ -34,6 +34,7 @@ const ProductTable = ({ onCompare }) => {
       ),
     },
   ];
+  console.log(setCompareList);
 
   return <Table dataSource={products} columns={columns} rowKey="id" pagination={{ pageSize: 5 }} />;
 };

@@ -14,7 +14,7 @@ const Sidebar = ({ visible, onClose }) => {
       placement="left"
       closable={false}
       onClose={onClose}
-      visible={visible}
+      open={visible}
       className="sidebar-drawer"
     >
       <Button
