@@ -2,6 +2,16 @@
 
 This is a React-based application that allows users to compare various products. The app fetches product data from an external API and lets users select products to compare their details, including title, brand, price, category, and rating.
 
+## Live Link
+
+Check out the live Link of the project [Live Link App](https://atproductscompareapp.netlify.app). 
+
+
+## Home Page
+
+ ![homepage](https://github.com/abuiron/products-compare-app/blob/main/public/front.png?raw=true)
+
+
 ## Features
 
 - **Product Listing**: Displays a list of products with details like title, description, price, discount, brand, and category.
@@ -9,17 +19,13 @@ This is a React-based application that allows users to compare various products.
 - **Responsive Design**: The application is designed to be fully responsive, adapting to various screen sizes.
 - **Ant Design Components**: Utilizes Ant Design components for the user interface, ensuring a sleek and professional appearance.
 
-## Live Demo
 
-Check out the live demo of the project [https://atproductscompareapp.netlify.app] (AT Products). 
-
-*Note: Replace the `#` with your actual live demo URL.*
 
 ## Installation
 
 1. Clone the repository:
    ``bash
-   git clone https://github.com/your-username/product-comparison-app.git
+   git clone https://github.com/abuiron/product-comparison-app.git
    cd product-comparison-app
 
 2. Install dependencies:
